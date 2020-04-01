@@ -1,0 +1,2 @@
+include ':pplive'
+rootProject.name='PPLive-JetPack'
